@@ -9776,6 +9776,10 @@ button.bg-black:focus {
   background-color: rgba(0, 0, 0, 0);
 }
 
+.fa-cogs {
+  text-align: center;
+}
+
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
